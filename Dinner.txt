@@ -1,0 +1,1 @@
+MoonLight cafe  , {"Grilled Salmon": 180, "Steak with Mashed Potatoes": 200, "Vegetable Stir-Fry": 170, "Chicken Alfredo": 220, "Shrimp Scampi": 210, "Lasagna": 190, "Pork Chops": 230, "Stuffed Bell Peppers": 180, "Beef Stroganoff": 200, "Ratatouille": 170, "Roast Chicken": 220}
